@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2626cc6a-33cf-444f-8d97-f01dc4ba3ab0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/ayran/conversor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/ayran/conversor/leitor/LeitorTeclado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/ayran/conversor/modelo/Conversao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/ayran/conversor/servico/ApiConversor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/ayran/conversor/servico/ApiCotacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConversorDeMoedas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ConversorDeMoedas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/conversordemoedas/convertermoedas/ConversaoFinanceira.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/conversordemoedas/convertermoedas/ConversorMoeda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/conversordemoedas/convertermoedas/TesteConverterMoeda.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ayrandev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ayrandev/ConversorDollarParaReal.git",
+    "accountId": "b47e6073-1ee5-4956-b025-295cf02aee27"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2x3L8TVuNty6OwK3B3Lv7uOxQap" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.br.com.ayran.conversor.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "C:/Users/Dell/IdeaProjects/ConversorDeMoedas/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.br.com.ayran.conversor.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ConversorDeMoedas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="br.com.ayran.conversor.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.ayran.conversor.Main" />
+      <module name="ConversorDeMoedas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.ayran.conversor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.br.com.ayran.conversor.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2626cc6a-33cf-444f-8d97-f01dc4ba3ab0" name="Changes" comment="" />
+      <created>1747161653549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747161653549</updated>
+    </task>
+    <servers />
+  </component>
+</project>
